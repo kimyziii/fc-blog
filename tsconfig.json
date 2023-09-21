@@ -30,6 +30,12 @@
     ],
     "components/*": [
       "components/*"
+    ],
+    "firebaseApp/*": [
+      "firebaseApp/*"
+    ],
+    "context/*": [
+      "context/*"
     ]
   }
 }
