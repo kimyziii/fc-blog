@@ -152,6 +152,14 @@ footer a:hover {
   color: gray;
 }
 
+.post__no-post {
+  padding: 24px;
+  text-align: center;
+  color: gray;
+  border: 1px solid #f2f2f2;
+  border-radius: 10px;
+}
+
 .post__delete:hover,
 .post__delete:focus,
 .post__edit a:hover,
